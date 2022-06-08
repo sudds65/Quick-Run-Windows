@@ -1,0 +1,13 @@
+lusrmgr.msc - local user management
+ncpa.cpl - network adapters
+inetcpl.cpl - internet settings, mostly for proxy changes
+sysdm.cpl - system domain machine
+eventvwr.msc - event viewer
+services.msc - obvious....
+gpedit.msc - local group policy editor
+firewall.cpl - firewall settings, to quickly turn on/off FW
+wf.msc - firewall rules
+devmgmt.msc - device manager
+diskmgmt.msc - disk management
+taskschd.msc - task scheduler
+appwiz.cpl - programs and features, "application wizard"
